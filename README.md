@@ -1,9 +1,8 @@
 Consignes :
 
-- Creer ( en javascript ou en html ) un champ texte et proposer à l'utilisateur d'entrer une valeur, créer un bouton
-et écouter le click sur ce bouton
-- Récuperer la valeur entré par l'utilisateur lors du click sur le bouton
-- Stocker cette valeur dans un tableau
+
+
+
 - Lorsque l'utilisateur a entré au moins 10 valeurs, afficher dans un élément div une entrée du tableau
 choisie au hasard
 - Dans un autre div, afficher à l'utilisateur la 5 eme entrée du tableau
